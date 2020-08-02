@@ -38,5 +38,7 @@ end
 
 def sum_array()
   sum = 0 
+  
+  
     
 end
