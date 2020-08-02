@@ -32,6 +32,6 @@ end
 
 def find_a(array)
   array.select do |word|
-    word.first == "a"
+    word.start_witth? == "a"
   end
 end
